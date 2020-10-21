@@ -1,4 +1,4 @@
 # voice
-Speech recognition project./n
-Download this project, click start.jar to run./n
-voiceselect.rar including the code.
+Speech recognition project.
+Download this project, click start.jar to run.
+VoiceSelect.rar including the code.
